@@ -5,7 +5,7 @@
    "author": "Chris Andelin",
    "version": "1.0.0",
    "minimumCoreVersion": "0.5.0",
-   "compatibleCoreVersion":"0.5.5",
+   "compatibleCoreVersion":"0.8.6",
    "packs": [
     {
       "name": "lmop-items",
@@ -47,5 +47,9 @@
       "entity": "JournalEntry",
       "module": "lmop-shared"
     }
-  ]
+  ],
+   "manifest": "https://raw.githubusercontent.com/ChrisAndelin/lmop-shared/master/module.json",
+   "url": "https://github.com/ChrisAndelin/lmop-shared",
+   "system": "dnd5e",
+   "download": "https://github.com/ChrisAndelin/lmop-shared/archive/refs/heads/master.zip"
  }
