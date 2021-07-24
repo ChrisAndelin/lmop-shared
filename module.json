@@ -36,7 +36,7 @@
       "label": "lmop Journals",
       "system": "dnd5e",
       "path": "packs/journals.db",
-      "entity": "JournalEntry",
+      "entity": "Journal",
       "module": "lmop-shared"
     },
     {
@@ -44,7 +44,7 @@
       "label": "lmop Quests",
       "system": "dnd5e",
       "path": "packs/quests.db",
-      "entity": "JournalEntry",
+      "entity": "Journal",
       "module": "lmop-shared"
     }
   ],
