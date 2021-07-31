@@ -50,6 +50,6 @@
   "system": "dnd5e",
   "url": "https://github.com/ChrisAndelin/lmop-shared",
   "version": "0.0.0",
-  "manifest": "https://raw.githubusercontent.com/ChrisAndelin/lmop-shared/master/module.json",
-  "download": "https://github.com/ChrisAndelin/lmop-shared/archive/refs/heads/master.zip"
+  "manifest": "https://github.com/ChrisAndelin/lmop-shared/releases/download/0.0.0/module.json",
+  "download": "https://github.com/ChrisAndelin/lmop-shared/releases/download/0.0.0/module.zip"
  }
