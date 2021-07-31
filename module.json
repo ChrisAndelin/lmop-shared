@@ -3,7 +3,6 @@
    "title": "lmop-shared",
    "description": "Sharing data across Phandelver worlds",
    "author": "Chris Andelin",
-   "version": "1.0.0",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.8.8",
    "packs": [
@@ -48,8 +47,9 @@
       "module": "lmop-shared"
     }
   ],
-   "manifest": "https://raw.githubusercontent.com/ChrisAndelin/lmop-shared/master/module.json",
-   "url": "https://github.com/ChrisAndelin/lmop-shared",
-   "system": "dnd5e",
-   "download": "https://github.com/ChrisAndelin/lmop-shared/archive/refs/heads/master.zip"
+  "system": "dnd5e",
+  "url": "https://github.com/ChrisAndelin/lmop-shared",
+  "version": "0.0.0",
+  "manifest": "https://raw.githubusercontent.com/ChrisAndelin/lmop-shared/master/module.json",
+  "download": "https://github.com/ChrisAndelin/lmop-shared/archive/refs/heads/master.zip"
  }
