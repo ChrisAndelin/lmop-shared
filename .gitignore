@@ -1,2 +1,3 @@
-*.zip
+/*.zip
+/module.zip
 */unused/*
